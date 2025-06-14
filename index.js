@@ -29,8 +29,8 @@ const PASSWORD = 'Mishra@123';
 
 function createBot() {
   bot = mineflayer.createBot({
-    host: '191.96.231.2',
-    port: 10578,
+    host: 'Mudhouse.aternos.me',
+    port: 29780,
     username: 'BOT_BY_AMAN',
   });
 
